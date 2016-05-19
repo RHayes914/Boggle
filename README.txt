@@ -1,5 +1,7 @@
 /*
-	This is Boggle. Boggle is a word game in which a player finds the words on a grid of 
+	This is a text based version of Boggle.
+
+	Boggle is a word game in which a player finds the words on a grid of 
 	letters (at least two letters in length) by tracing a path through adjacent letters.
 	The same letter may not be used twice. The goal of the game is to find all words on the
 	board. This version of Boggle is not timed.
